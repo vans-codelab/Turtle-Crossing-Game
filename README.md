@@ -37,7 +37,7 @@ Press the Up Arrow key to move your turtle across the street. After each level t
    Open the command prompt and navigate to the directory where the files are located.  
    Example:
 
-       cd "C:\Caesar-Cipher\"
+       cd "C:\Turtle_Crossing_Game\"
 
    Run **main.py** to start the program:
   
