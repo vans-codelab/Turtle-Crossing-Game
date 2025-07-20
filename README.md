@@ -1,8 +1,16 @@
 # Turtle Crossing Game
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Turtle](https://img.shields.io/badge/Library-turtle-9cf)
+![Game](https://img.shields.io/badge/Type-Game-green)
+![OOP](https://img.shields.io/badge/Concept-OOP-blueviolet)
+
 Help your turtle cross the road without getting hit! 
+<br><br>
 
 ### How it Works
 Press the Up Arrow key to move your turtle across the street. After each level the cars will move faster - try to avoid getting hit!
+<br><br>
 
 ### Screenshots / Demo
 ![Intro](screenshots/1_Turtle_Intro.PNG)
@@ -10,6 +18,7 @@ Press the Up Arrow key to move your turtle across the street. After each level t
 ![Gameplay](screenshots/2_Turtle_Gameplay.png)
 
 ![Game Over](screenshots/3_Turtle_GameOver.PNG)
+<br><br>
 
 ### Features
 - Object-oriented programming (OOP) design for clean and modular code
@@ -17,6 +26,7 @@ Press the Up Arrow key to move your turtle across the street. After each level t
 - Intro screen with game instructions before starting
 - Player controls a turtle that can move upwards
 - Dynamic display of current level and game elements during play
+<br><br>
 
 ### Requirements
 - **Programming Language:**
@@ -25,6 +35,7 @@ Press the Up Arrow key to move your turtle across the street. After each level t
 
 - **Python Packages:**
   Uses only Python's standard libraries, no external packages required.
+<br><br>
 
 ### Usage
 1. **Download Files:**
@@ -50,6 +61,7 @@ The game is implemented using object-oriented programming (OOP) principles. Afte
 For example, I programmed the cars to speed up progressively after each level, making the game more challenging. 
 Additionally, I implemented an intro screen at the start of the game. 
 This required modifying the code so that the player’s turtle and other game elements only become active once the game begins, including displaying the current level and cars.
+<br><br>
 
 ### License
 
