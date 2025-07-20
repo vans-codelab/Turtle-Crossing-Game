@@ -2,8 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Turtle](https://img.shields.io/badge/Library-turtle-9cf)
-![Game](https://img.shields.io/badge/Type-Game-green)
+![Game](https://img.shields.io/badge/Type-Game-darkgreen)
 ![OOP](https://img.shields.io/badge/Concept-OOP-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 Help your turtle cross the road without getting hit! 
 <br><br>
